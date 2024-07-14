@@ -5,16 +5,16 @@ ecommerce.py is a Jupyter Notebook project aimed at providing an educational dem
 
 **Features:**
 
-1.Data loading and preprocessing.
-2.Exploratory Data Analysis (EDA).
-3.Data visualization with popular Python libraries.
-4.Insights and findings from the e-commerce dataset.
+1.Data loading and preprocessing.  
+2.Exploratory Data Analysis (EDA).  
+3.Data visualization with popular Python libraries.  
+4.Insights and findings from the e-commerce dataset.  
 
 **Requirements:**
 
--Python 3.x.
--Jupyter Notebook.
--pandas.
--numpy.
--matplotlib.
--seaborn.
+-Python 3.x.  
+-Jupyter Notebook.  
+-pandas.  
+-numpy.  
+-matplotlib.  
+-seaborn.  
