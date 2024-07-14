@@ -1,7 +1,7 @@
 # E-COMMERCE.PY
 **Overview**
 
-ecommerce.py is a Jupyter Notebook project aimed at providing an educational demonstration of basic e-commerce functionalities using Python. This repository includes data analysis and visualization techniques applied to an e-commerce dataset.
+Ecommerce.py is a Jupyter Notebook project aimed at providing an educational demonstration of basic e-commerce functionalities using Python. This repository includes data analysis and visualization techniques applied to an e-commerce dataset.
 
 **Features:**
 
